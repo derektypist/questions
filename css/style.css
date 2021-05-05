@@ -1,0 +1,14 @@
+/* Global Styles */
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+    background: hsl(210, 36%, 96%);
+    color: hsl(209, 61%, 16%);
+}
+
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+/* Questions */
